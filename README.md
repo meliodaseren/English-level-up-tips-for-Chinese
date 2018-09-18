@@ -1,34 +1,27 @@
 # English-level-up-tips-for-Chinese
 
-不久前，备考托福的女神问了我一个问题：如何高效学习英语？
+**英語作為一門語言，學習起來應該是件比較自然而然的事情，就像我們自然而然地學會漢語那樣**。
 
-在我思考如何回答这个问题时，想到了在大四上一学期我考过 26 门课的经验（其中重修 19 门，当前学期 7 门），觉得我应该能勉强提供一些高效学习的小技巧。
-在和她交流了一番学习心得后，我惊讶于她在学习方面的热情竟是如此之高，同时也发现她的学习方法有些不可取之处。
-于是我写了一篇简单的文章零散地介绍了下我学习英语的小技巧，几天后她给我回复，希望我可以把我的学习经验完善一下并分享给更多的人。
+在這份指南，我會盡可能地綜合我主觀的看法與一定的科學依據，為大家提供一份詳盡的英語進階指南，真心希望本指南能給你帶來一點小小的幫助。
 
-在此之前，我并不知道原来有那么多的同学在学习英语的道路上是一路走到黑的。
-他们甚至从未想过：**英语作为一门语言，学习起来应该是一件比较自然而然的事情，就像我们自然而然地学会汉语那样**。
+## GitBook
 
-在这份指南里，我会尽可能地综合我主观的看法与一定的科学依据，为大家提供一份详尽的英语进阶指南，真心希望本指南能给你带来一点小小的帮助。
-
-## GitBook 链接
-
-想要获得更好的阅读体验，请访问本指南对应的 GitBook 页面
+想要獲得更好的閱讀體驗，請訪問本指南對應的 GitBook 頁面
 
 [English-level-up-tips-for-Chinese](https://byoungd.gitbook.io/english-level-up-tips/)
 
-## 英语水平等级
+## 英語水平等級
 
 ![CERF@2x.png](assets/CEFR@2x.png)
 
-> 本图主要参考 http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale
+> 本圖主要參考 http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale
 
 ## 特色
 
 ![Feature@2x.png](assets/Feature@2x.png)
 ![How@2x.png](assets/How@2x.png)
 
-## 章节
+## 章節
 
 ### 已完成：
 
@@ -48,47 +41,47 @@
 
 ![writing@2x.png](assets/writing@2x.png)
 
-> 由于工作与学习绘画等原因，写作篇暂无具体计划，请谅解！
+> 由於工作與學習繪畫等原因，寫作篇暫無具體計劃，請諒解！
 
 ---
 
 ![word-list@2x.png](assets/word-list@2x.png)
 
-这份单词表尽量涵盖时下流行的语言，目的是帮助你更方便的看英文文档。
-工程巨大，需要较长的时间进行整理。
+這份單詞表盡量涵蓋時下流行的語言，目的是幫助你更方便的看英文文檔。
+工程巨大，需要較長的時間進行整理。
 
-## 为 初学者单词表 做贡献
+## 為 初學者單詞表 做貢獻
 
-请直接将 单词 添加至本 repo 目录： **[word-list](word-list)** 下对应的 md 文件中，不需要添加单词的解释，注意换行+空行（参照每个 md 文件的前两个单词）。
+請直接將 單詞 添加至本 repo 目錄： **[word-list](word-list)** 下對應的 md 文件中，不需要添加單詞的解釋，註意換行+空行（參照每個 md 文件的前兩個單詞）。
 
-在生词数量接近完善时会统一输出带有中文释义的版本，并会在后期进行补充解释。
+在生詞數量接近完善時會統一輸出帶有中文釋義的版本，並會在後期進行補充解釋。
 
-## 感谢
+## 感謝
 
-- 感谢帮助完善这份指南的所有人
+- 感謝幫助完善這份指南的所有人
 
-- 特别感谢: [![v2ex](https://v2ex.assets.uxengine.net/site/logo@2x.png)](https://www.v2ex.com/)
+- 特別感謝: [![v2ex](https://v2ex.assets.uxengine.net/site/logo@2x.png)](https://www.v2ex.com/)
 
-## 转载声明
+## 轉載聲明
 
-转载本指南，请注明作者与 GitHub 链接，谢谢！
+轉載本指南，請註明作者與 GitHub 鏈接，謝謝！
 
-## 有疑问或建议
+## 有疑問或建議
 
 您可以直接提 issue
 
-## 关于赞赏
+## 關於讚賞
 
-有不少热心的小伙伴来信，表明本指南写的很用心，认为对其学习英语有一定的帮助，希望能进行赞赏。
+有不少熱心的小夥伴來信，表明本指南寫的很用心，認為對其學習英語有一定的幫助，希望能進行讚賞。
 
-2017 年 6 月 8 日我和一见钟情的女神走到一起，既然已经得到此生所爱，便不再需要其他奖赏。
+2017 年 6 月 8 日我和一見鐘情的女神走到一起，既然已經得到此生所愛，便不再需要其他獎賞。
 
-在此，统一声明：**本指南不接受也不需要金钱上的赞助**。
+在此，統一聲明：**本指南不接受也不需要金錢上的讚助**。
 
-请把你那些本来想用来赞赏的零钱给自己买几本好书，Enjoy!
+請把你那些本來想用來讚賞的零錢給自己買幾本好書，Enjoy!
 
-    学习，难道不是人生最棒的乐趣么？
+    學習，難道不是人生最棒的樂趣嗎？
 
-## 协议/License
+## 協議/License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可。
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知識共享許可協議" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知識共享署名-非商業性使用 4.0 國際許可協議</a>進行許可。
