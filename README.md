@@ -64,7 +64,7 @@
 
 ## 轉載聲明
 
-轉載本指南，請註明作者與 GitHub 鏈接，謝謝！
+轉載本指南，請註明作者與 GitHub 連結，謝謝！
 
 ## 有疑問或建議
 
@@ -72,16 +72,8 @@
 
 ## 關於讚賞
 
-有不少熱心的小夥伴來信，表明本指南寫的很用心，認為對其學習英語有一定的幫助，希望能進行讚賞。
-
-2017 年 6 月 8 日我和一見鐘情的女神走到一起，既然已經得到此生所愛，便不再需要其他獎賞。
-
-在此，統一聲明：**本指南不接受也不需要金錢上的讚助**。
-
-請把你那些本來想用來讚賞的零錢給自己買幾本好書，Enjoy!
-
     學習，難道不是人生最棒的樂趣嗎？
 
 ## 協議/License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知識共享許可協議" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知識共享署名-非商業性使用 4.0 國際許可協議</a>進行許可。
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知識共享許可協議" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />本作品採用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知識共享署名-非商業性使用 4.0 國際許可協議</a>進行許可。
