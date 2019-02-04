@@ -3,7 +3,9 @@
 ## 為什麼我們應該學好英語
 
 首先我們應該明白 **英語** 是一門使用 **廣泛** 的語言，其廣泛程度可從維基百科的用戶結構窺探一二：
+
 ![https://upload.wikimedia.org/wikipedia/commons/a/ae/WebsiteContentLanguages.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/WebsiteContentLanguages.svg/2000px-WebsiteContentLanguages.svg.png)
+
 英語作為全球使用範圍最廣的語言，涵蓋了人生活的方方面面。
 無論是簡單的訊息交流還是嚴謹的書籍文獻，英語的使用都占有很大的比例。
 學好英語，就如同打開了一扇新世界的門，可以不再被禁錮於原有的獲取訊息的渠道，可以看到比中文世界更多更豐富的內容。
@@ -14,6 +16,7 @@
 ## 學習金字塔理論
 
 美國學者艾德格·戴爾（Edgar Dale）在 1969 年曾經提出過一個“學習金字塔”理論 (The Cone of Learning)，該理論認為，在初次學習兩個星期後，通過閱讀學習能夠記住內容的 10%；通過聽講學習能夠記住內容的 20%；通過圖片學習能夠記住內容的 30%；通過影像、展覽、示範、現場觀摩來學習能夠記住 50%；參與討論、提問、發言等方式能夠記住 70%；做報告、教學、模擬體驗、實際操作能夠記住 90%。
+
 ![ConeofLearning-old.png](../assets/ConeofLearning-old.png)
 
 這一理論在語言學習領域有非常廣泛的應用。
