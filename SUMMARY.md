@@ -1,7 +1,8 @@
 # Summary
 
+* [首頁](README.md)
+
 ## Part I
-* [Introduction](README.md)
 * [1.認知篇](part-1/1-understanding.md)
 * [2.單詞篇](part-1/2-vocabulary.md)
 * [3.聽力篇](part-1/3-listening.md)

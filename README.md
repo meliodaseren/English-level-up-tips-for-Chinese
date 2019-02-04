@@ -8,9 +8,9 @@
 
 想要獲得更好的閱讀體驗，請訪問本指南對應的 GitBook 頁面
 
-[English-level-up-tips-for-Chinese（原作者）](https://byoungd.gitbook.io/english-level-up-tips/)
-
 [English-level-up-tips-for-Chinese](https://superbia.gitbook.io/eren-english-level-up/)
+
+[English-level-up-tips-for-Chinese（原作者）](https://byoungd.gitbook.io/english-level-up-tips/)
 
 ## 英語水平等級
 
