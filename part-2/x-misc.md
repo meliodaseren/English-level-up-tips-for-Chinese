@@ -9,7 +9,7 @@
 
 永遠綜合考慮 **喜歡且能勝任的工作**，我希望大家都能過上自己期待的生活，而不是為了生存而放棄生活。
 
-怕傷及國內某些機構的利益，摘一段《前端開發者手冊2017》裏的話(刪掉了點名的機構)：
+怕傷及國內某些機構的利益，摘一段《前端開發者手冊2017》裏的話（刪掉了點名的機構）：
 
 > Lately a lot of non-accredited, expensive, front-end code schools/bootcamps have emerged.
  These avenues of becoming a front-end developer are typically teacher directed courses, that follow a more traditional style of learning, from an official instructor.
@@ -58,7 +58,7 @@
 我知道現在很多人的kindle和iPad在吃灰，甚至是平常被用來當泡面蓋子。
 這可能是有趣的玩法，不過這真的是我們購買這些電子產品的初衷嗎？
 
-![黑人問號.jpg](../assets/黑人問號.jpg)
+![黑人問號.jpg](../assets/黑人问号.jpg)
 
 
 ## 個人慘痛的學習經歷
