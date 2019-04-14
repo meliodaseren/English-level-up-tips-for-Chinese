@@ -10,7 +10,7 @@
 
 [English-level-up-tips-for-Chinese](https://superbia.gitbook.io/eren-english-level-up/)
 
-[English-level-up-tips-for-Chinese（原作者）](https://byoungd.gitbook.io/english-level-up-tips/)
+[English-level-up-tips-for-Chinese（原作者；簡體中文）](https://byoungd.gitbook.io/english-level-up-tips/)
 
 ## 英語水平等級
 
