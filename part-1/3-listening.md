@@ -1,20 +1,20 @@
 # 聽力篇
 
->推薦的視頻大多數是YouTube上的，通常這些視頻都有準確度相當高的英語字幕（絕大多數為自動生成），由於GFW的原因，你需要通過代理來訪問。
+>推薦的視頻大多數是 YouTube 上的，通常這些視頻都有準確度相當高的英語字幕（絕大多數為自動生成）。
 
 ## 練習英語聽力的幾個誤區
 
 - **學習材料分散**
 
-    訂閱過多的聽力內容，VOA、BBC、各種Podcast、英文名篇朗讀等，導致無法穩定地每天都分配時間去聽；
-    今天聽一篇VOA，隔天聽一篇BBC，過兩天再翻翻哪個YouTube頻道，這種毫無計劃地練習聽力效率並不高；
-    VOA、BBC還有很多優秀的Podcast都是很棒的學習材料，選擇最感興趣的，評估自己的學習時間，訂閱適量的內容。
+    訂閱過多的聽力內容，VOA、BBC、各種 Podcast、英文名篇朗讀等，導致無法穩定地每天都分配時間去聽；
+    今天聽一篇 VOA，隔天聽一篇 BBC，過兩天再翻翻哪個 YouTube 頻道，這種毫無計劃地練習聽力效率並不高；
+    VOA、BBC 還有很多優秀的 Podcast 都是很棒的學習材料，選擇最感興趣的，評估自己的學習時間，訂閱適量的內容。
        
 - **學習材料超綱**
 
-    很多人一開始就嘗試VOA，這是不推薦的；即使是VOA慢速英語，你也會遇到生詞太多導致卡住、喪失繼續聽下去的興趣的情況；
-    有些喜歡鉆牛角尖的同學會問：聽一遍沒聽懂，那我聽10遍呢？
-    事實上如果你不去通過聽力材料提供的文本將生詞這關先過了，聽100遍也是收效甚微的。這與我們提倡的高效學習相悖。
+    很多人一開始就嘗試 VOA，這是不推薦的；即使是 VOA 慢速英語，你也會遇到生詞太多導致卡住、喪失繼續聽下去的興趣的情況；
+    有些喜歡鉆牛角尖的同學會問：聽一遍沒聽懂，那我聽 10 遍呢？
+    事實上如果你不去通過聽力材料提供的文本將生詞這關先過了，聽 100 遍也是收效甚微的。這與我們提倡的高效學習相悖。
     英美劇對初學者來說就更不是 **友好** 的學習材料，根據自己的詞匯量選擇合適的聽力材料，一步步來，循序漸進。
      
 - **過度依賴字幕**
@@ -44,7 +44,7 @@
 先把聽力材料聽明白，聽懂表達的意思，然後把爭取每一個單詞都聽清楚。精聽一般會配合拼寫或者用口語重覆進行練習。
 聽第一遍的時候記不住、跟不上、很多單詞沒有聽清都是很正常的，多聽幾次就會有顯著提高了。
 精聽還可以幫助自己學習單詞發音、連讀、斷句等。分析自己在聽力方面的弱項，針對性的去鍛煉。
-我高中時采用了很笨的方法：反覆聽，直到自己可以背誦、拼寫整篇文章，花了大量的時間與精力去聽新概念第三冊，那時並沒有看出對自己的英語水平有多少提升，甚至一度懷疑自己在做無用功，直到高考成績是115分（滿分120）才明白受益良多。
+我高中時采用了很笨的方法：反覆聽，直到自己可以背誦、拼寫整篇文章，花了大量的時間與精力去聽新概念第三冊，那時並沒有看出對自己的英語水平有多少提升，甚至一度懷疑自己在做無用功，直到高考成績是 115 分（滿分 120）才明白受益良多。
 聽力材料可選的非常多，在這裏我先簡單的推薦《新概念英語》第三冊和第四冊。
 
 ### 泛聽
@@ -54,7 +54,7 @@
 
 #### 有聲書
 
-很多英文經典名著和暢銷書都推出了相應的有聲書版本，比如Gone with the wind, The Kite Runner, Pride and Prejudice,The Great Gatsby 等。
+很多英文經典名著和暢銷書都推出了相應的有聲書版本，比如 Gone with the wind, The Kite Runner, Pride and Prejudice, The Great Gatsby 等。
 英文有聲書的朗讀者大都是專業的播音員或者演員出身，聲線優美，朗讀時的表現力很強，一定程度上讓聽有聲書成為了一種享受，學習效果自然會好很多。
 
 - [audible](http://www.audible.com/) 網站資源豐富，有對應的移動端app，挺好用的，推薦。
@@ -67,12 +67,12 @@
 在這裏我推薦另一部劇《摩登家庭》，這是我個人非常喜歡的一部喜劇，多次獲得艾美獎最佳喜劇。同時本劇的台詞相當有水平，是學習與欣賞的極佳材料。
 神劇《風騷律師》也是非常非常棒的選擇，但是對英語水平的要求要明顯高於《老友記》和《摩登家庭》。
 
->《摩登家庭》第一季拍攝於2009年，我周圍人的生活到現在也沒有**摩登**到2009年的《摩登家庭》
+>《摩登家庭》第一季拍攝於2009年，我周圍人的生活到現在也沒有**摩登**到 2009 年的《摩登家庭》
 
 #### 電影
 
 優秀的電影非常適合泛聽，尤其是經典高分電影。
-我刷了10遍+的影片（影片的選擇請根據自己的喜好，我列舉的僅代表個人喜好）：
+我刷了 10 遍+的影片（影片的選擇請根據自己的喜好，我列舉的僅代表個人喜好）：
 -《怦然心動》
 -《教父》
 -《機器人總動員》
@@ -88,11 +88,11 @@ Podcast 和帶 lrc 的美劇錄音比純看美劇要少很多幹擾，在同時�
 
 歐美金曲值得推薦的實在太多，無法一一列舉；
 受歡迎的歌手：賈斯汀 比伯、戳爺、水果姐、黴黴、盆栽精、打雷、阿呆等等；
-iTunes榜、BillBoard、UK榜都可以試試。
+iTunes 榜、BillBoard、UK 榜都可以試試。
 
 #### 直播
 
-如果你喜歡看直播，去[Twitch](https://www.twitch.tv/)上找找喜歡的主播吧。
+如果你喜歡看直播，去 [Twitch](https://www.twitch.tv/)上找找喜歡的主播吧。
  
 ## 入門聽力訓練
 
@@ -108,14 +108,14 @@ iTunes榜、BillBoard、UK榜都可以試試。
 - [laracasts](https://laracasts.com/) 
 推薦指數：5
 
-這是一個關於前端和PHP框架Laravel的視頻教程網站，內容更新及時，講解細致，大部分內容免費，對剛入門的程序員很友好。
-教程內容涉及JavaSrcipt/Vue.js/React/Laravel/PHP/編輯器的進階教程等。
+這是一個關於前端和 PHP 框架 Laravel 的視頻教程網站，內容更新及時，講解細致，大部分內容免費，對剛入門的程序員很友好。
+教程內容涉及 JavaSrcipt/Vue.js/React/Laravel/PHP/ 編輯器的進階教程等。
 很喜歡他的那句口頭禪 *Does it make sense to you?*
 
 - [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw) 
 推薦指數：5
 
-如果你想學習React/Redux/MobX/AngularJS/NodeJS/Docker等，這裏會是你願意花很多時間待的地方
+如果你想學習 React/Redux/MobX/AngularJS/NodeJS/Docker 等，這裏會是你願意花很多時間待的地方
 - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) 
 推薦指數：5
 
@@ -124,17 +124,17 @@ iTunes榜、BillBoard、UK榜都可以試試。
 - [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw) 
 推薦指數：4
 
-Derek制作的 *一個視頻學習一門語言* 的教程系列可以幫助你快速了解一些流行編程語言的基礎語法,不過單位時間內包含的信息量大且語速稍快，適合有一定基礎的同學。
+Derek 製作的 *一個視頻學習一門語言* 的教程系列可以幫助你快速了解一些流行編程語言的基礎語法,不過單位時間內包含的信息量大且語速稍快，適合有一定基礎的同學。
 
 - [The Net Ninja  10](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 推薦指數：4
 
-前端學習很棒的一個頻道，較早的內容開頭的忍者語音有點嚇人，近期的視頻開頭已經替換為相對友好的提示音。該頻道CSS/Sass相關的教程值得推薦。
+前端學習很棒的一個頻道，較早的內容開頭的忍者語音有點嚇人，近期的視頻開頭已經替換為相對友好的提示音。該頻道 CSS/Sass 相關的教程值得推薦。
 
 - [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
 推薦指數：4
 
-這是一個對剛入門的前端程序員友好的頻道，細致的基礎內容，CSS、JQuery相關的內容值得推薦。
+這是一個對剛入門的前端程序員友好的頻道，細致的基礎內容，CSS、JQuery 相關的內容值得推薦。
 
 - [egghead.io](https://egghead.io/)
 推薦指數：4
@@ -145,7 +145,7 @@ Derek制作的 *一個視頻學習一門語言* 的教程系列可以幫助你�
 
 - [EnglishLessons4U - Learn English with Ronnie! [engVid]](https://www.youtube.com/user/EnglishLessons4U) 
 
-    **力薦** 學習英語的基礎語法，很多小技巧都挺實用。最最重要的是，Ronnie老師實在是太幽默啦，學習的過程中你會感受到快樂！
+    **力薦** 學習英語的基礎語法，很多小技巧都挺實用。最最重要的是，Ronnie 老師實在是太幽默啦，學習的過程中你會感受到快樂！
 
 - [English with Lucy!](https://www.youtube.com/channel/UCz4tgANd4yy8Oe0iXCdSWfA) 
 
@@ -153,15 +153,15 @@ Derek制作的 *一個視頻學習一門語言* 的教程系列可以幫助你�
 
 - [EnglishAnyone](https://www.youtube.com/channel/UCrJHj7MDQhmQ9iFuACdoWCg) 
 
-    教你說流利英語,因為作者的發音清晰、標準，設計的內容也比較貼近日常生活，是練習聽力很棒的頻道
+    教你說流利英語，因為作者的發音清晰、標準，設計的內容也比較貼近日常生活，是練習聽力很棒的頻道
     
 - [Speak English With Vanessa](https://www.youtube.com/channel/UCxJGMJbjokfnr2-s4_RXPxQ)
     
-    Vanessa老師給人一種熱情、樂觀的感覺，發音標準，聲情並茂。
+    Vanessa 老師給人一種熱情、樂觀的感覺，發音標準，聲情並茂。
 
 - [mmmEnglish](https://www.youtube.com/channel/UCrRiVfHqBIIvSgKmgnSY66g/)
     
-    Emma老師的發音柔軟清透、溫和迷人。
+    Emma 老師的發音柔軟清透、溫和迷人。
         
 
 ### 超級英雄電影愛好者不該錯過的頻道
@@ -180,30 +180,30 @@ Derek制作的 *一個視頻學習一門語言* 的教程系列可以幫助你�
 艾倫秀
 
 - [The Late Show with Stephen Colbert](https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig)
-Late秀
+Late 秀
 
 ### 其他
 
 - [Disney UK](https://www.youtube.com/user/WaltDisneyStudiosUK)
-冰雪奇緣主題曲FROZEN的播放量高達10億!
+冰雪奇緣主題曲 FROZEN 的播放量高達 10 億!
 - [Vevo](https://www.youtube.com/user/VEVO)
-電影級MV的集中營呀,VEVO旗下有很多視頻都有單獨的頻道，請自行查找感興趣的
+電影級 MV 的集中營呀，VEVO 旗下有很多視頻都有單獨的頻道，請自行查找感興趣的
 - [OneDirectionVEVO](https://www.youtube.com/user/OneDirectionVEVO)
-OneDirection粉應該關註的頻道
+OneDirection 粉應該關註的頻道
 - [SiaVEVO](https://www.youtube.com/channel/UCmKdSrwf1e8coqAzUsrVHZw)
 個人非常喜歡，視頻質量感人，引人深思
 - [SSSniperWolf](https://www.youtube.com/channel/UCpB959t8iPrxQWj7G6n0ctQ)
-一只可愛的妹子。
-- [TED  6](https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug) 
-TED Talks,聽聽別人的idea是一件很有意思的事情，建議從熱門的開始看，TED Talks的熱門視頻往往都有多國語言字幕。
+可愛的妹子。
+- [TED](https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug) 
+TED Talks，聽聽別人的 idea 是一件很有意思的事情，建議從熱門的開始看，TED Talks 的熱門視頻往往都有多國語言字幕。
 
 
 ## 單獨推薦的YouTube視頻
 
-- [自信的技巧 - 伊萬•約瑟夫博士 - TEDxRyersonU](https://www.youtube.com/watch?v=w-HYZv6HzAs) | [優酷鏈接](http://v.youku.com/v_show/id_XMjgyMDQwMDc4MA==.html)
-- [說流利英語的一個小技巧](https://www.youtube.com/watch?v=l96V7dQtq9E) | [優酷鏈接](http://v.youku.com/v_show/id_XMjc2MzE0NTQ4NA==.html)
-- [朱利安·特瑞雪: 怎樣說話人們才會聽](https://www.youtube.com/watch?v=eIho2S0ZahI) | [B站鏈接](http://www.bilibili.com/video/av2915315/)
-- [Sia - Chandelier (Official Video)](https://www.youtube.com/watch?v=2vjPBrBU-TM) | [優酷鏈接](http://v.youku.com/v_show/id_XMjgyMDQxMjMwNA==.html)
+- [自信的技巧 - 伊萬•約瑟夫博士 - TEDxRyersonU](https://www.youtube.com/watch?v=w-HYZv6HzAs) | [優酷連結](http://v.youku.com/v_show/id_XMjgyMDQwMDc4MA==.html)
+- [說流利英語的一個小技巧](https://www.youtube.com/watch?v=l96V7dQtq9E) | [優酷連結](http://v.youku.com/v_show/id_XMjc2MzE0NTQ4NA==.html)
+- [朱利安·特瑞雪: 怎樣說話人們才會聽](https://www.youtube.com/watch?v=eIho2S0ZahI) | [B站連結](http://www.bilibili.com/video/av2915315/)
+- [Sia - Chandelier (Official Video)](https://www.youtube.com/watch?v=2vjPBrBU-TM) | [優酷連結](http://v.youku.com/v_show/id_XMjgyMDQxMjMwNA==.html)
 
 
 下一篇：[閱讀篇](4-reading.md)
